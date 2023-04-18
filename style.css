@@ -4,3 +4,12 @@ body {
 span {
     color: dodgerblue;
 }
+
+table{
+    text-align: center;
+    border: 1px solid black;
+}
+
+td, th {
+    border: 1px dashed black;
+}
